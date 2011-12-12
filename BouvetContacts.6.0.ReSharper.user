@@ -1,0 +1,353 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="3ECE8BCD-F386-458C-ACD9-0BE658E5827A/f:StreamHelper.cs" caret="228" fromTop="11" />
+      <File id="3ECE8BCD-F386-458C-ACD9-0BE658E5827A/f:GarbageVCard.cs" caret="2281" fromTop="26" />
+      <File id="3ECE8BCD-F386-458C-ACD9-0BE658E5827A/f:WebRetriever.cs" caret="35" fromTop="1" />
+      <File id="3ECE8BCD-F386-458C-ACD9-0BE658E5827A/f:Organization.cs" caret="299" fromTop="12" />
+      <File id="3ECE8BCD-F386-458C-ACD9-0BE658E5827A/f:OrganizationRetriever.cs" caret="1274" fromTop="17" />
+      <File id="3ECE8BCD-F386-458C-ACD9-0BE658E5827A/f:Program.cs" caret="1544" fromTop="11" />
+      <File id="3ECE8BCD-F386-458C-ACD9-0BE658E5827A/f:PeopleRetriever.cs" caret="2481" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="3ECE8BCD-F386-458C-ACD9-0BE658E5827A/f:PeopleRetriever.cs" caret="7033" fromTop="21" />
+      <File id="3ECE8BCD-F386-458C-ACD9-0BE658E5827A/f:Program.cs" caret="669" fromTop="20" />
+      <File id="3ECE8BCD-F386-458C-ACD9-0BE658E5827A/f:Program.cs" caret="669" fromTop="20" />
+      <File id="3ECE8BCD-F386-458C-ACD9-0BE658E5827A/f:PeopleRetriever.cs" caret="5460" fromTop="17" />
+      <File id="3ECE8BCD-F386-458C-ACD9-0BE658E5827A/f:PeopleRetriever.cs" caret="5203" fromTop="11" />
+      <File id="3ECE8BCD-F386-458C-ACD9-0BE658E5827A/f:OrganizationRetriever.cs" caret="223" fromTop="11" />
+      <File id="3ECE8BCD-F386-458C-ACD9-0BE658E5827A/f:OrganizationRetriever.cs" caret="495" fromTop="16" />
+      <File id="3ECE8BCD-F386-458C-ACD9-0BE658E5827A/f:PeopleRetriever.cs" caret="288" fromTop="15" />
+      <File id="3ECE8BCD-F386-458C-ACD9-0BE658E5827A/f:Program.cs" caret="1516" fromTop="16" />
+      <File id="3ECE8BCD-F386-458C-ACD9-0BE658E5827A/f:Program.cs" caret="412" fromTop="11" />
+      <File id="3ECE8BCD-F386-458C-ACD9-0BE658E5827A/f:Program.cs" caret="622" fromTop="16" />
+      <File id="3ECE8BCD-F386-458C-ACD9-0BE658E5827A/f:Program.cs" caret="1136" fromTop="16" />
+      <File id="3ECE8BCD-F386-458C-ACD9-0BE658E5827A/f:Program.cs" caret="1659" fromTop="16" />
+      <File id="3ECE8BCD-F386-458C-ACD9-0BE658E5827A/f:Program.cs" caret="130" fromTop="10" />
+      <File id="3ECE8BCD-F386-458C-ACD9-0BE658E5827A/f:Program.cs" caret="31" fromTop="1" />
+      <File id="3ECE8BCD-F386-458C-ACD9-0BE658E5827A/f:WebRetriever.cs" caret="591" fromTop="16" />
+      <File id="3ECE8BCD-F386-458C-ACD9-0BE658E5827A/f:WebRetriever.cs" caret="380" fromTop="16" />
+      <File id="3ECE8BCD-F386-458C-ACD9-0BE658E5827A/f:WebRetriever.cs" caret="212" fromTop="15" />
+      <File id="3ECE8BCD-F386-458C-ACD9-0BE658E5827A/f:WebRetriever.cs" caret="35" fromTop="1" />
+      <File id="3ECE8BCD-F386-458C-ACD9-0BE658E5827A/f:PeopleRetriever.cs" caret="67" fromTop="2" />
+      <File id="3ECE8BCD-F386-458C-ACD9-0BE658E5827A/f:PeopleRetriever.cs" caret="512" fromTop="16" />
+      <File id="3ECE8BCD-F386-458C-ACD9-0BE658E5827A/f:PeopleRetriever.cs" caret="1053" fromTop="16" />
+      <File id="3ECE8BCD-F386-458C-ACD9-0BE658E5827A/f:PeopleRetriever.cs" caret="2153" fromTop="16" />
+      <File id="3ECE8BCD-F386-458C-ACD9-0BE658E5827A/f:PeopleRetriever.cs" caret="3216" fromTop="16" />
+      <File id="3ECE8BCD-F386-458C-ACD9-0BE658E5827A/f:PeopleRetriever.cs" caret="4616" fromTop="16" />
+      <File id="3ECE8BCD-F386-458C-ACD9-0BE658E5827A/f:PeopleRetriever.cs" caret="6161" fromTop="16" />
+      <File id="3ECE8BCD-F386-458C-ACD9-0BE658E5827A/f:PeopleRetriever.cs" caret="7196" fromTop="16" />
+      <File id="3ECE8BCD-F386-458C-ACD9-0BE658E5827A/f:PeopleRetriever.cs" caret="7795" fromTop="16" />
+      <File id="3ECE8BCD-F386-458C-ACD9-0BE658E5827A/f:PeopleRetriever.cs" caret="691" fromTop="16" />
+      <File id="3ECE8BCD-F386-458C-ACD9-0BE658E5827A/f:Program.cs" caret="1060" fromTop="12" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="const" priority="63" />
+      <Item value="string" priority="639" />
+      <Item value="private" priority="159" />
+      <Item value="get" priority="159" />
+      <Item value="new" priority="831" />
+      <Item value="CredentialCache" priority="28" />
+      <Item value="NetworkCredential" priority="28" />
+      <Item value="var" priority="1535" />
+      <Item value="return" priority="671" />
+      <Item value="public" priority="319" />
+      <Item value="getHTML`0" priority="95" />
+      <Item value="ContactRetriever" priority="28" />
+      <Item value="cr" priority="95" />
+      <Item value="true" priority="127" />
+      <Item value="MutualAuthRequired" priority="16" />
+      <Item value="response" priority="63" />
+      <Item value="null" priority="319" />
+      <Item value="stream" priority="31" />
+      <Item value="reader" priority="31" />
+      <Item value="static" priority="63" />
+      <Item value="EnvironmentVariableTarget`0" priority="31" />
+      <Item value="credentials" priority="95" />
+      <Item value="BouvetWebRetriever" priority="29" />
+      <Item value="List" priority="124" />
+      <Item value="HtmlAgilityPack" priority="57" />
+      <Item value="HtmlDocument" priority="51" />
+      <Item value="document" priority="63" />
+      <Item value="void" priority="31" />
+      <Item value="getVCards`0" priority="31" />
+      <Item value="foreach" priority="159" />
+      <Item value="VCard`0" priority="63" />
+      <Item value="ret" priority="831" />
+      <Item value="personTR" priority="63" />
+      <Item value="if" priority="767" />
+      <Item value="vcard" priority="63" />
+      <Item value="HtmlNode`0" priority="31" />
+      <Item value="VCard" priority="28" />
+      <Item value="personTr" priority="63" />
+      <Item value="personTDs" priority="63" />
+      <Item value="innerText" priority="63" />
+      <Item value="detailsTR" priority="31" />
+      <Item value="img" priority="63" />
+      <Item value="src" priority="63" />
+      <Item value="getStream`0" priority="63" />
+      <Item value="getStreamReader`0" priority="31" />
+      <Item value="StreamReader" priority="28" />
+      <Item value="ReadToEnd`0" priority="31" />
+      <Item value="StreamHelper`0" priority="31" />
+      <Item value="Site" priority="31" />
+      <Item value="StringBuilder" priority="28" />
+      <Item value="sb" priority="31" />
+      <Item value="vCard" priority="127" />
+      <Item value="FileStyleUriParser`0" priority="31" />
+      <Item value="file" priority="31" />
+      <Item value="using" priority="31" />
+      <Item value="Image" priority="31" />
+      <Item value="outputEncoding" priority="63" />
+      <Item value="false" priority="63" />
+      <Item value="BouvetWebRetriever`0" priority="63" />
+      <Item value="_containerID" priority="63" />
+      <Item value="containerID" priority="31" />
+      <Item value="String`0" priority="63" />
+      <Item value="Organization`0" priority="95" />
+      <Item value="Children" priority="31" />
+      <Item value="List&lt;Organization&gt;" priority="57" />
+      <Item value="protected" priority="31" />
+      <Item value="OrgURL" priority="31" />
+      <Item value="rootTable" priority="31" />
+      <Item value="Organization" priority="28" />
+      <Item value="table" priority="95" />
+      <Item value="nextSiblingTable" priority="31" />
+      <Item value="subOrgs" priority="63" />
+      <Item value="getOrgFromTable`0" priority="31" />
+      <Item value="OrganizationRetriever" priority="28" />
+      <Item value="orgRetriever" priority="31" />
+      <Item value="override" priority="31" />
+      <Item value="File`0" priority="31" />
+      <Item value="pathPrefix" priority="31" />
+      <Item value="org" priority="95" />
+      <Item value="System" priority="31" />
+      <Item value="IO" priority="26" />
+      <Item value="Directory`0" priority="26" />
+      <Item value="folder" priority="127" />
+      <Item value="else" priority="95" />
+      <Item value="WriteOrg`0" priority="31" />
+      <Item value="child" priority="31" />
+      <Item value="PeopleRetriever`0" priority="31" />
+      <Item value="PeopleRetriever" priority="28" />
+      <Item value="retriever" priority="31" />
+      <Item value="peopleUrl" priority="31" />
+      <Item value="cards" priority="31" />
+      <Item value="fileName" priority="31" />
+      <Item value="detailsURL" priority="95" />
+      <Item value="strippedURL" priority="31" />
+      <Item value="detailsDoc" priority="378" />
+      <Item value="detailsHtml" priority="31" />
+      <Item value="fodt" priority="63" />
+      <Item value="DateTime`0" priority="95" />
+      <Item value="out" priority="31" />
+      <Item value="fDato" priority="63" />
+      <Item value="BirthDate" priority="63" />
+      <Item value="builder" priority="31" />
+      <Item value="JobTitle" priority="31" />
+      <Item value="email" priority="95" />
+      <Item value="writeCards`0" priority="31" />
+      <Item value="vCardPhone" priority="57" />
+      <Item value="workPhone" priority="63" />
+      <Item value="vCardPhoneTypes`0" priority="63" />
+      <Item value="vCardEmailAddress" priority="86" />
+      <Item value="vCardEmailAddressType`0" priority="95" />
+      <Item value="vCardPhoto" priority="28" />
+      <Item value="filename" priority="31" />
+      <Item value="card" priority="31" />
+      <Item value="erfaring" priority="127" />
+      <Item value="vCardNote" priority="28" />
+      <Item value="getPhone`0" priority="31" />
+      <Item value="privTlf" priority="31" />
+      <Item value="firstTDContent" priority="63" />
+      <Item value="getNextTDText`0" priority="223" />
+      <Item value="privStreet" priority="159" />
+      <Item value="vCardDeliveryAddress" priority="57" />
+      <Item value="privAddress" priority="255" />
+      <Item value="Home" priority="33" />
+      <Item value="privEmailAddr" priority="95" />
+      <Item value="workEmail" priority="63" />
+      <Item value="privBox" priority="95" />
+      <Item value="privPostalNr" priority="31" />
+      <Item value="privCity" priority="63" />
+      <Item value="msn" priority="63" />
+      <Item value="title" priority="31" />
+      <Item value="tr" priority="63" />
+      <Item value="tds" priority="95" />
+      <Item value="txt" priority="95" />
+      <Item value="ta" priority="63" />
+      <Item value="homeAddr" priority="95" />
+      <Item value="vCardDeliveryAddress`0" priority="30" />
+      <Item value="int" priority="31" />
+      <Item value="ix" priority="63" />
+      <Item value="WebRetriever`0" priority="31" />
+      <Item value="_credentials" priority="63" />
+      <Item value="Console`0" priority="159" />
+      <Item value="password" priority="31" />
+      <Item value="NetworkCredential`0" priority="31" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.HttpWebRequest">
+      <Item value="AuthenticationLevel" priority="53" />
+      <Item value="Credentials" priority="53" />
+      <Item value="GetResponse`0" priority="26" />
+      <Item value="PreAuthenticate" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.WebResponse">
+      <Item value="ToString`0" priority="26" />
+      <Item value="GetResponseStream`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BouvetContacts.ContactRetriever">
+      <Item value="test`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.StreamReader">
+      <Item value="ReadToEnd`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:HtmlAgilityPack.HtmlDocument">
+      <Item value="LoadHtml`0" priority="53" />
+      <Item value="DocumentNode" priority="107" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:HtmlAgilityPack.HtmlNode">
+      <Item value="SelectNodes`0" priority="157" />
+      <Item value="SelectSingleNode`0" priority="265" />
+      <Item value="InnerText" priority="134" />
+      <Item value="GetAttributeValue`0" priority="107" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BouvetContacts.BouvetWebRetriever">
+      <Item value="test`0" priority="26" />
+      <Item value="GetVCards`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BouvetContacts.VCard">
+      <Item value="FirstName" priority="53" />
+      <Item value="LastName" priority="53" />
+      <Item value="City" priority="26" />
+      <Item value="Phone" priority="26" />
+      <Item value="Mobile" priority="26" />
+      <Item value="Image" priority="26" />
+      <Item value="ToString`0" priority="26" />
+      <Item value="Organization" priority="26" />
+      <Item value="BirthDate" priority="26" />
+      <Item value="Email" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="IsNullOrEmpty`0" priority="242" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Replace`0" priority="107" />
+      <Item value="Trim`0" priority="80" />
+      <Item value="Length" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.StringBuilder">
+      <Item value="Append`0" priority="26" />
+      <Item value="AppendLine`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.File">
+      <Item value="Create`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BouvetContacts.Organization">
+      <Item value="Name" priority="53" />
+      <Item value="Children" priority="107" />
+      <Item value="PeopleURL" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BouvetContacts.OrganizationRetriever">
+      <Item value="GetOrganization`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.Directory">
+      <Item value="CreateDirectory`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:BouvetContacts.PeopleRetriever">
+      <Item value="GetVCards`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="TryParse`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Nullable`1">
+      <Item value="ToString`0" priority="26" />
+      <Item value="Value" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="ToString`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Thought.vCards.vCard">
+      <Item value="FirstName" priority="53" />
+      <Item value="FormattedName" priority="26" />
+      <Item value="FamilyName" priority="26" />
+      <Item value="GivenName" priority="26" />
+      <Item value="Office" priority="26" />
+      <Item value="Phones" priority="53" />
+      <Item value="Photos" priority="22" />
+      <Item value="DisplayName" priority="80" />
+      <Item value="Notes" priority="26" />
+      <Item value="EmailAddresses" priority="53" />
+      <Item value="DeliveryAddresses" priority="53" />
+      <Item value="XMsn" priority="26" />
+      <Item value="Title" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Thought.vCards.vCardPhoneCollection">
+      <Item value="Add`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Thought.vCards.vCardPhoneTypes">
+      <Item value="WorkVoice" priority="26" />
+      <Item value="CellularVoice" priority="26" />
+      <Item value="HomeVoice" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Thought.vCards.vCardEmailAddressCollection">
+      <Item value="Add`0" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Thought.vCards.vCardEmailAddressType">
+      <Item value="Internet" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Thought.vCards.vCardPhotoCollection">
+      <Item value="Add`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Thought.vCards.vCardNoteCollection">
+      <Item value="Add`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Thought.vCards.vCardDeliveryAddressCollection">
+      <Item value="Add`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Thought.vCards.vCardDeliveryAddress">
+      <Item value="AddressType" priority="53" />
+      <Item value="City" priority="26" />
+      <Item value="Street" priority="26" />
+      <Item value="Region" priority="26" />
+      <Item value="PostalCode" priority="26" />
+      <Item value="IsHome" priority="53" />
+      <Item value="Country" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Thought.vCards.vCardEmailAddress">
+      <Item value="IsPreferred" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:HtmlAgilityPack.HtmlNodeCollection">
+      <Item value="Count" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="Write`0" priority="53" />
+      <Item value="ReadLine`0" priority="53" />
+      <Item value="WriteLine`0" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>

@@ -1,0 +1,10 @@
+C:\Users\thomas.haukland\documents\visual studio 2010\Projects\BouvetContacts\BouvetContacts\bin\Debug\BouvetContacts.exe
+C:\Users\thomas.haukland\documents\visual studio 2010\Projects\BouvetContacts\BouvetContacts\bin\Debug\BouvetContacts.pdb
+C:\Users\thomas.haukland\documents\visual studio 2010\Projects\BouvetContacts\BouvetContacts\bin\Debug\HtmlAgilityPack.dll
+C:\Users\thomas.haukland\documents\visual studio 2010\Projects\BouvetContacts\BouvetContacts\bin\Debug\Thought.vCards.dll
+C:\Users\thomas.haukland\documents\visual studio 2010\Projects\BouvetContacts\BouvetContacts\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\thomas.haukland\documents\visual studio 2010\Projects\BouvetContacts\BouvetContacts\bin\Debug\HtmlAgilityPack.xml
+C:\Users\thomas.haukland\documents\visual studio 2010\Projects\BouvetContacts\BouvetContacts\bin\Debug\Thought.vCards.pdb
+C:\Users\thomas.haukland\documents\visual studio 2010\Projects\BouvetContacts\BouvetContacts\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\thomas.haukland\documents\visual studio 2010\Projects\BouvetContacts\BouvetContacts\obj\x86\Debug\BouvetContacts.exe
+C:\Users\thomas.haukland\documents\visual studio 2010\Projects\BouvetContacts\BouvetContacts\obj\x86\Debug\BouvetContacts.pdb
